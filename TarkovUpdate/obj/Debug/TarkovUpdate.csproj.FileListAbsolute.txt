@@ -1,0 +1,10 @@
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\bin\Debug\TarkovUpdate.exe.config
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\bin\Debug\TarkovUpdate.exe
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\bin\Debug\TarkovUpdate.pdb
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\bin\Debug\Octokit.dll
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\bin\Debug\Octokit.xml
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\obj\Debug\TarkovUpdate.csproj.AssemblyReference.cache
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\obj\Debug\TarkovUpdate.csproj.CoreCompileInputs.cache
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\obj\Debug\TarkovUp.46D1501F.Up2Date
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\obj\Debug\TarkovUpdate.exe
+C:\Users\batde\source\repos\TarkovUpdate\TarkovUpdate\obj\Debug\TarkovUpdate.pdb
